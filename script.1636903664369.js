@@ -240,6 +240,14 @@ Spring boot frameworks in my free time.`,
                 description:
                     'Faculty of electrical and computer engineering, Pnu University, Urmia, Iran',
             },
+
+            {
+                title: 'Teaching Assistant, Java Advanced Programming Lab',
+                icon: 'assets/img/academic/pnu.svg',
+                date: '2021 Fall',
+                description:
+                    'Faculty of electrical and computer engineering, Pnu University, Urmia, Iran',
+            },
         ],
     },
     certificates: [
