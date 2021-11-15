@@ -90,7 +90,7 @@ Spring boot frameworks in my free time.`,
     education: [
         {
             title:
-                'BS, Computer Engineering, Urmia Pnu University, Urmia, Iran (en.urmia.ac.ir)',
+                'BS, Computer Engineering, Urmia Pnu University, Urmia, Iran (enold.pnu.ac.ir)',
             date: '2017 - 2021',
             description:
                 'Faculty of electrical and computer engineering, Urmia pnu University, Urmia, Iran',
