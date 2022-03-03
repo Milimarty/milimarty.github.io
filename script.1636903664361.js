@@ -114,10 +114,10 @@ Spring boot frameworks in my free time.`,
             },
             {
                 title:
-                    'Backend Developer at <a target="_blank" href="https://www.learnpersianart.com/">Rhythmitica</a>',
+                    'Backend Developer at <a target="_blank" href="https://www.rhythmitica.com/">Rhythmitica</a>',
                 companyName: 'Rhythmitica',
                 icon: 'assets/img/industrial/mashgh-eshgh.png',
-                date: 'April 2020 - May 2021',
+                date: 'April 2020 - Present',
                 description:
                     "Rhythmitica is an online musical instrument tutoring academy. \n with this app you will be able to :" +
                     "learn and use beats and patterns for Persian music instruments, search through Persian pieces and loops, see the live timeline of the notes that are playing ,record your own music along with the sample loops in the app and share it",
@@ -245,6 +245,13 @@ Spring boot frameworks in my free time.`,
                 title: 'Teaching Assistant, Java Advanced Programming Lab',
                 icon: 'assets/img/academic/pnu.svg',
                 date: '2021 Fall',
+                description:
+                    'Faculty of electrical and computer engineering, Pnu University, Urmia, Iran',
+            },
+            {
+                title: 'Teaching Assistant, Java Advanced Programming Lab',
+                icon: 'assets/img/academic/pnu.svg',
+                date: '2022 Winter',
                 description:
                     'Faculty of electrical and computer engineering, Pnu University, Urmia, Iran',
             },
