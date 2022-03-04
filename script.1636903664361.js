@@ -263,18 +263,21 @@ Spring boot frameworks in my free time.`,
             date: 'April 2017',
             icon: 'assets/img/certificates/frontend.png',
             description: 'mft.info',
+            link:'mft.info'
         },
         {
             title: 'Network+',
             date: 'April 2017',
             icon: 'assets/img/certificates/java.png',
             description: 'mft.info',
+            link:'mft.info'
         },
         {
             title: 'Google Python crash course',
             date: 'March 2022',
             icon: 'assets/img/certificates/python.jpg',
-            description: 'https://www.coursera.org/account/accomplishments/certificate/8UHYPTTWPBFV',
+            description: 'Google Python crash course',
+            link:'https://www.coursera.org/account/accomplishments/certificate/8UHYPTTWPBFV'
         },
 
     ],
