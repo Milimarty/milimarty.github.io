@@ -270,6 +270,13 @@ Spring boot frameworks in my free time.`,
             icon: 'assets/img/certificates/java.png',
             description: 'mft.info',
         },
+        {
+            title: 'Google Python crash course',
+            date: 'March 2022',
+            icon: 'assets/img/certificates/python.jpg',
+            description: 'https://www.coursera.org/account/accomplishments/certificate/8UHYPTTWPBFV',
+        },
+
     ],
     languages: [
         {
