@@ -139,7 +139,7 @@ Spring boot frameworks in my free time.`,
                 title: 'Android Developer At Satell',
                 companyName: 'Satell',
                 icon: 'assets/img/industrial/satell.png',
-                date: 'March 2019 - August 2020',
+                date: 'December 2018 - August 2020',
                 description:
                     'Satell is a search base online sales platform' +
                     'for downtown shops. Shops after registration' +
